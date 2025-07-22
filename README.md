@@ -42,7 +42,7 @@ Cart and Orders:
 
 1.Clone the repository
   Use the following command to clone the repository:
-  `git clone https://github.com/yourusername/ecommerce-backend.git`
+  `git clone https://github.com/TriptiSingh541/Ecommerce.git`
 2.Navigate to the project directory
   Move into the cloned project folder:
    e.g `cd ecommerce-backend` 
